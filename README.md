@@ -5,4 +5,4 @@ It is a group study supervised by Prof. Chun.
 - Deeplearning1 
   - Participants : Dongjune Jee, Jinhwan Suk, Namou Kang
   - reference : Deep Learning, Ian Goodfellow
-  - 2020. 03 ~
+  - Since 2020 03 
