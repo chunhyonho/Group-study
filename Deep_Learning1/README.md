@@ -19,7 +19,7 @@
   [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep_Learning1/20200409/Regularization%20for%20deep%20learning.pdf), 
   [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep_Learning1/20200409/Regularization%20for%20deep%20learning.pdf)   
   
- - Code Implementation (by Kang)
+  - Code Implementation (by Kang)
    [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep_Learning1/20200409/0409_강남웅.pptx), 
   [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep_Learning1/20200409/0409_강남웅.pptx),
   [code](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep_Learning1/20200409/main.py)
