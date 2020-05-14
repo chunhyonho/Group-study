@@ -36,6 +36,12 @@
   [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep_Learning1/20200423/deep%20learning%20chap%207.pdf),
   [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep_Learning1/20200423/deep%20learning%20chap%207.pdf)
   
-  - (**Chapter 8**)Optimization for Training Deep Models(by Kang)
+  - (**Chapter 8.1-5**)Optimization for Training Deep Models(by Kang)
   [link]
   [download]
+
+
+- [05/14/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep_Learning1/20200514) :
+  - (**Chapter 8.6-7**)Optimization for Training Deep Models(by Suk)
+  [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep_Learning1/20200514/optimization%20for%20training%20deep%20learning.pdf)
+  [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep_Learning1/20200514/optimization%20for%20training%20deep%20learning.pdf)
