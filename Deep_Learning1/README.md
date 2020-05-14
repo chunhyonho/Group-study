@@ -15,7 +15,7 @@
     [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep_Learning1/20200402/%5B20200402%5D개별연구_backprop.pdf)   
     
 - [04/09/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep_Learning1/20200409) : 
-  - (**Chapter 7**)Regularization for Deep Learning(by Suk)
+  - (**Chapter 7.1-7**)Regularization for Deep Learning(by Suk)
   [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep_Learning1/20200409/Regularization%20for%20deep%20learning.pdf), 
   [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep_Learning1/20200409/Regularization%20for%20deep%20learning.pdf)   
   
@@ -27,12 +27,12 @@
   
  
 - [04/16/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep_Learning1/20200416) : 
-  - (**Chapter 7**)Regularization for Deep Learning(2)(by Suk) 
+  - (**Chapter 7.1-7**)Regularization for Deep Learning(2)(by Suk) 
   [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep_Learning1/20200416/Regularization%20for%20deep%20learning(2).pdf)
   [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep_Learning1/20200416/Regularization%20for%20deep%20learning(2).pdf)
 
 - [04/23/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep_Learning1/20200423) :
-  - (**Chapter 7**)Regularization for Deep Learning(by Jee)
+  - (**Chapter 7.8-14**)Regularization for Deep Learning(by Jee)
   [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep_Learning1/20200423/deep%20learning%20chap%207.pdf),
   [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep_Learning1/20200423/deep%20learning%20chap%207.pdf)
   
