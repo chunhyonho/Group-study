@@ -61,8 +61,8 @@
 
 - [05/28/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep_Learning1/20200514) :
   - (**Chapter 10.1-5**)Sequence Modeling : Recurrent and Recursive Nets(by Hong)
-  [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep_Learning1/20200514/ch8.3-5%20Optimization%20for%20Training%20Deep%20Models.pdf),
-  [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep_Learning1/20200514/ch8.3-5%20Optimization%20for%20Training%20Deep%20Models.pdf)
+  [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200528/Ch10.1-5%20(RNN).pdf),
+  [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep%20Learning/20200528/Ch10.1-5%20(RNN).pdf)
   
   - (**Chapter 10.6-11**)Sequence Modeling : Recurrent and Recursive Nets(by Suk)
   [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200528/ch10.6%7E.pdf),
