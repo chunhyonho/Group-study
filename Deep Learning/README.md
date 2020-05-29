@@ -50,10 +50,10 @@
   [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep_Learning1/20200514/optimization%20for%20training%20deep%20learning.pdf),
   [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep_Learning1/20200514/optimization%20for%20training%20deep%20learning.pdf)
 
-- [05/21/20]() :
-  - (**Chapter 8.3-5**)Optimization for Training Deep Models(by Kang)
-  [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep_Learning1/20200514/ch8.3-5%20Optimization%20for%20Training%20Deep%20Models.pdf),
-  [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep_Learning1/20200514/ch8.3-5%20Optimization%20for%20Training%20Deep%20Models.pdf)
+- [05/21/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep%20Learning/20200521) :
+  - Linear Regression Implementation(by Jung)
+  [report](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200521/Assignment%20Report%20PPT_20170604%20정지형.pdf),
+  [code](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200521/LinearRegression_OLS_GD(BGD)_MBGD_SGD_Final_with%20Stopping%20Criteria.py)
   
   - (**Chapter 8.6-7**)Optimization for Training Deep Models(by Suk)
   [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep_Learning1/20200514/optimization%20for%20training%20deep%20learning.pdf),
