@@ -7,6 +7,6 @@
     [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Categorical%20Data%20Analysis/052720/cda%5Bch1%5D.pdf)   
     
   - [06/03/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Categorical%20Data%20Analysis/060320) : 
-    - (**Chapter 1**)Introduction : Distributions and Inference for Categorical Data (by Suk)
+    - (**Chapter 2**)Describing Contingency Tables (by Hong)
     [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Categorical%20Data%20Analysis/060320/Describing%20Contingency%20Tables.pptx), 
     [download](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Categorical%20Data%20Analysis/060320/Describing%20Contingency%20Tables.pptx)   
