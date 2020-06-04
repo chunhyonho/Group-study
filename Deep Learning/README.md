@@ -67,3 +67,8 @@
   - (**Chapter 10.6-11**)Sequence Modeling : Recurrent and Recursive Nets(by Suk)
   [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200528/ch10.6%7E.pdf),
   [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep%20Learning/20200528/ch10.6%7E.pdf)
+
+
+- [06/04/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep_Learning1/20200604) :
+  - Attention Model(by Suk)
+  [code](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200604/Attention%20Model.ipynb)
