@@ -55,9 +55,11 @@
   [report](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200521/Assignment%20Report%20PPT_20170604%20정지형.pdf),
   [code](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200521/LinearRegression_OLS_GD(BGD)_MBGD_SGD_Final_with%20Stopping%20Criteria.py)
   
-  - (**Chapter 8.6-7**)Optimization for Training Deep Models(by Suk)
-  [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep_Learning1/20200514/optimization%20for%20training%20deep%20learning.pdf),
-  [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep_Learning1/20200514/optimization%20for%20training%20deep%20learning.pdf)
+  - (**Chapter 9**)Convolutional Networks(by Jee)
+  [code](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200521/cnn.ipynb),
+  [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200521/cnn.pdf),
+  [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep%20Learning/20200521/cnn.pdf)
+  
 
 - [05/28/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep_Learning1/20200514) :
   - (**Chapter 10.1-5**)Sequence Modeling : Recurrent and Recursive Nets(by Hong)
