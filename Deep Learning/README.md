@@ -74,3 +74,7 @@
 - [06/04/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep_Learning1/20200604) :
   - Attention Model(by Suk)
   [code](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200604/Attention%20Model.ipynb)
+  
+  - (**Chapter 13**)Linear Factor Models(by Jung)
+  [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200604/Ch13.%20Linear%20Factor%20Models%20by%20Jihyeong%20Jung.pdf),
+  [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep%20Learning/20200604/Ch13.%20Linear%20Factor%20Models%20by%20Jihyeong%20Jung.pdf)
