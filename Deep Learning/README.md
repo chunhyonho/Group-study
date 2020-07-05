@@ -78,3 +78,20 @@
   - (**Chapter 13**)Linear Factor Models(by Jung)
   [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200604/Ch13.%20Linear%20Factor%20Models%20by%20Jihyeong%20Jung.pdf),
   [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep%20Learning/20200604/Ch13.%20Linear%20Factor%20Models%20by%20Jihyeong%20Jung.pdf)
+
+
+- [06/11/20] :
+  - (**Chapter 14**)Autoencoders(by --)
+  [Slide],
+  [Download]
+
+
+- [06/18/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep%20Learning/20200618) :
+  - (**Chapter 15**)Representation Learning(by Kang)
+  [Slide](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200618/Representation%20Learning.pdf),
+  [Download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep%20Learning/20200618/Representation%20Learning.pdf)
+
+- [07/09/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep%20Learning/20200709) :
+  - (**Chapter 16**)Structured Probabilistic Models for Deep Learning(by Hong)
+  [Slide],
+  [Download]
