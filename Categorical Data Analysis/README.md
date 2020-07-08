@@ -33,3 +33,18 @@
     
   - Chapter 3 :
     - [3n](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Categorical%20Data%20Analysis/070820/Ch3%200mod3.pdf), [3n+1], [3n+2]
+    
+  - Chapter 4 :
+    - [3n](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Categorical%20Data%20Analysis/070820/ch4.pdf), [3n+1], [3n+2]
+    
+  - Chapter 5 :
+    - [3n], [3n+1], [3n+2]
+    
+  - Chapter 6 :
+    - [3n], [3n+1], [3n+2]
+    
+  - Chapter 7 :
+    - [3n], [3n+1], [3n+2]
+    
+  - Chapter 8 :
+    - [3n], [3n+1], [3n+2]
