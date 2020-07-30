@@ -95,3 +95,13 @@
   - (**Chapter 16**)Structured Probabilistic Models for Deep Learning(by Hong)
   [Slide],
   [Download]
+  
+- [07/23/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep%20Learning/20200709) :
+  - (**Chapter 18**)Confronting the Partition Function(by Cho)
+  [Slide],
+  [Download]
+ 
+- [07/30/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep%20Learning/20200709) :
+  - (**Chapter 19**)Approximate Inference(by Suk)
+  [Slide](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200730/Approximate%20inference.pdf),
+  [Download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep%20Learning/20200730/Approximate%20inference.pdf)
