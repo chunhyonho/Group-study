@@ -106,7 +106,7 @@
   [Slide](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200730/Approximate%20inference.pdf),
   [Download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep%20Learning/20200730/Approximate%20inference.pdf)
   
-- [08/06/20]() :
+- [08/06/20](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200806) :
   - (**Chapter 20**)Generavtive adversarial model(by Hong)
-  [Slide](),
-  [Download]()
+  [Slide](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200806/Generative%20adversarial%20network%20(GAN).pptx),
+  [Download](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200806/Generative%20adversarial%20network%20(GAN).pptx)
