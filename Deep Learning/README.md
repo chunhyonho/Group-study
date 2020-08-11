@@ -93,8 +93,8 @@
 
 - [07/09/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep%20Learning/20200709) :
   - (**Chapter 16**)Structured Probabilistic Models for Deep Learning(by Hong)
-  [Slide],
-  [Download]
+  [Slide](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200709/Ch16_graphical%20model.pptx),
+  [Download](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200709/Ch16_graphical%20model.pptx)
   
 - [07/23/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep%20Learning/20200709) :
   - (**Chapter 18**)Confronting the Partition Function(by Cho)
@@ -105,3 +105,8 @@
   - (**Chapter 19**)Approximate Inference(by Suk)
   [Slide](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Deep%20Learning/20200730/Approximate%20inference.pdf),
   [Download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Deep%20Learning/20200730/Approximate%20inference.pdf)
+  
+- [08/06/20]() :
+  - (**Chapter 20**)Generavtive adversarial model(by Hong)
+  [Slide](),
+  [Download]()
