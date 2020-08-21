@@ -1,5 +1,6 @@
-# Overview
-
+---
+permalink : /CDA/
+---
 ## Presentation list
   - [05/28/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Categorical%20Data%20Analysis/052720) : 
     - (**Chapter 1**)Introduction : Distributions and Inference for Categorical Data (by Suk)
