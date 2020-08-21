@@ -1,4 +1,4 @@
-# GROUP_STUDY
+# GROUP STUDY
 It is a group study supervised by Prof. Chun.
 
 ## Overview
