@@ -1,4 +1,6 @@
-# Overview
+---
+permalink : /DL/
+---
 
 ## Presentation list
   - [04/02/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep_Learning1/20200402) : 
