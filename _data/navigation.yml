@@ -1,0 +1,5 @@
+main:
+  - title: "Deep learning"
+    url: /DL/
+  - title: "Categorical Data Analysis"
+    url: /CDA/
