@@ -3,17 +3,17 @@ permalink : /CDA/
 ---
 ## Presentation list
   - [05/28/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Categorical%20Data%20Analysis/052720) : 
-    - (**Chapter 1**)Introduction : Distributions and Inference for Categorical Data (by Suk)
+    - (**Chapter 1**)Introduction : Distributions and Inference for Categorical Data (by Suk)  
     [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Categorical%20Data%20Analysis/052720/cda%5Bch1%5D.pdf), 
     [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Categorical%20Data%20Analysis/052720/cda%5Bch1%5D.pdf)   
     
   - [06/03/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Categorical%20Data%20Analysis/060320) : 
-    - (**Chapter 2**)Describing Contingency Tables (by Hong)
+    - (**Chapter 2**)Describing Contingency Tables (by Hong)  
     [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Categorical%20Data%20Analysis/060320/Describing%20Contingency%20Tables.pptx), 
     [download](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Categorical%20Data%20Analysis/060320/Describing%20Contingency%20Tables.pptx)   
 
   - [06/10/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Categorical%20Data%20Analysis/061020) : 
-    - (**Chapter 3.1-3.3**)Inference for Two-way Contingency Tables (by Jee)
+    - (**Chapter 3.1-3.3**)Inference for Two-way Contingency Tables (by Jee)  
     [Slide], 
     [download]
     
