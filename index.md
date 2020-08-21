@@ -1,3 +1,6 @@
+---
+breadcrumbs : true
+---
 - [Deep learning](https://chunhyonho.github.io/Group-study/DL)
   - Participants : Dongjun Jee, Jaehyoung Hong, Jihyung Jung, Jinhwan Suk, Namou Kang
   - Reference : Deep Learning, Ian Goodfellow
