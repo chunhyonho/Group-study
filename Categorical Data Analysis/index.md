@@ -19,14 +19,19 @@ permalink : /CDA/
     
 
   - [06/17/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Categorical%20Data%20Analysis/061720) : 
-    - (**Chapter 3.4-3.7**)Inference for Two-way Contingency Tables (by Suk)
-    [Slide](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Categorical%20Data%20Analysis/061720/cda%5Bch3.4-7%5D.pdf), 
-    [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Categorical%20Data%20Analysis/061720/cda%5Bch3.4-7%5D.pdf)
+    - (**Chapter 3.4-3.7**)Inference for Two-way Contingency Tables (by Suk)  
+     [Slide](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Categorical%20Data%20Analysis/061720/cda%5Bch3.4-7%5D.pdf), 
+     [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Categorical%20Data%20Analysis/061720/cda%5Bch3.4-7%5D.pdf)
     
   - [06/24/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Categorical%20Data%20Analysis/062420) : 
-    - (**Chapter 4**)Introduction to Generalized Linear Models (by Hong)
+    - (**Chapter 4**)Introduction to Generalized Linear Models (by Hong)    
     [Slide](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Categorical%20Data%20Analysis/062420/Introduction%20to%20Generalized%20Linear%20Models%20(GLM).pdf), 
     [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Categorical%20Data%20Analysis/062420/Introduction%20to%20Generalized%20Linear%20Models%20(GLM).pdf)
+    
+  - [08/06/20](https://github.com/chunhyonho/Group-study/tree/master/Categorical%20Data%20Analysis/080620) : 
+    - (**Chapter 6**)Building, Checking, and Applying Logistic Regression Models (by Suk)  
+    [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/080620/ch6.pdf), 
+    [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/080620/ch6.pdf)
     
 ## Solution for Exercise
   - Chapter 2 :
