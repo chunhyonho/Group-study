@@ -1,7 +1,3 @@
-# GROUP STUDY
-It is a group study supervised by Prof. Chun.
-
-## Overview
 - [Deep learning](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Deep%20Learning/)
   - Participants : Dongjun Jee, Jaehyoung Hong, Jihyung Jung, Jinhwan Suk, Namou Kang
   - Reference : Deep Learning, Ian Goodfellow
