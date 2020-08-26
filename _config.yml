@@ -1,2 +1,2 @@
-#theme: jekyll-theme-leap-day
-remote_theme           : mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
+#remote_theme           : mmistakes/minimal-mistakes
