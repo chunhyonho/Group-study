@@ -1,11 +1,5 @@
 ---
-title: "Lab Members"
-layout: splash
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-excerpt: "statistics"
+breadcrumbs : true
 ---
 - [Deep learning](https://chunhyonho.github.io/Group-study/DL)
   - Participants : Dongjun Jee, Jaehyoung Hong, Jihyung Jung, Jinhwan Suk, Namou Kang
