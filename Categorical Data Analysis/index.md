@@ -1,6 +1,11 @@
 ---
 permalink : /CDA/
 ---
+[Go to Home Page](https://chunhyonho.github.io/) 
+
+# Categorical Data Analysis, 3rd edition
+  - Presenter : Jaehyoung Hong, Dongjun Jee, Jinhwan Suk
+
 ## Presentation list
   - [05/28/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Categorical%20Data%20Analysis/052720) : 
     - (**Chapter 1**)Introduction : Distributions and Inference for Categorical Data (by Suk)  
