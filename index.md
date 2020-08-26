@@ -1,7 +1,6 @@
 ---
 title: "Lab Members"
 layout: splash
-permalink: /group-study/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
