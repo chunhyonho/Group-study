@@ -37,9 +37,14 @@ permalink : /CDA/
     - (**Chapter 6**)Building, Checking, and Applying Logistic Regression Models (by Suk)  
     [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/080620/ch6.pdf), 
     [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/080620/ch6.pdf)
-    
+  
+   - [09/17/20](https://github.com/chunhyonho/Group-study/tree/master/Categorical%20Data%20Analysis/082520) : 
+    - (**Chapter 9**)Loglinear Models for Contingency Tables (by Suk)  
+    [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/082520/ch9.pdf), 
+    [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/082520/ch9.pdf)
+        
   - [09/17/20](https://github.com/chunhyonho/Group-study/tree/master/Categorical%20Data%20Analysis/091720) : 
-    - (**Chapter 12**)Clustered Data Analysis (by Suk)  
+    - (**Chapter 12**)Clustered Categorical Data : Marginal and Transitional Models (by Suk)  
     [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/091720/ch12.pdf), 
     [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/091720/ch12.pdf)
 ## Solution for Exercise
