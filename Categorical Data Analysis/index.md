@@ -38,6 +38,10 @@ permalink : /CDA/
     [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/080620/ch6.pdf), 
     [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/080620/ch6.pdf)
     
+  - [09/17/20](https://github.com/chunhyonho/Group-study/tree/master/Categorical%20Data%20Analysis/091720) : 
+    - (**Chapter 12**)Clustered Data Analysis (by Suk)  
+    [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/091720/ch12.pdf), 
+    [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/091720/ch12.pdf)
 ## Solution for Exercise
   - Chapter 2 :
     - [3n](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Categorical%20Data%20Analysis/061020/chap1mod3.pdf), [3n+1], [3n+2](https://github.com/chunhyonho/GROUP_STUDY/commit/d3bbec598e29b9206e3f4d18a6e29368f672554c)
