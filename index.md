@@ -12,4 +12,8 @@ breadcrumbs : true
 - [Categorical Data Analysis](https://chunhyonho.github.io/Group-study/CDA)
   - Participants : Dongjun Jee, Jaehyoung Hong, Jinhwan Suk
   - Reference : Categorical Data Analysis, Alan Agresti
-  - Since 2020.05
+  - Since 2020.05 
+  
+- [Journal Club](https://chunhyonho.github.io/Group-study/Journal_club)
+  - Participants : Dongjun Jee, Jaehyoung Hong, Jinhwan Suk
+  - Since 2020.09 ~ 
