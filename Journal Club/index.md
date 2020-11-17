@@ -17,6 +17,6 @@ permalink : /Journal_club/
     
   - 11/17/20 : 
     - Federated Learning : introduction (by Suk)  
-    [link](/FL),
-    [download]()
+    [link](/Journal_club/FL/index.html),
+    [download](https://github.com/chunhyonho/Group-study/raw/master/Journal%20Club/111720/FL.pdf)
     
