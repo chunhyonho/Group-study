@@ -15,3 +15,7 @@ permalink : /Journal_club/
     [link](https://github.com/chunhyonho/Group-study/edit/master/Journal%20Club/index.md), 
     [download](https://github.com/chunhyonho/Group-study/raw/master/Journal%20Club/LNTM.pdf)   
     
+  - 11/17/20 : 
+    - Federated Learning : introduction (by Suk)  
+    [link](/FL)  
+    
