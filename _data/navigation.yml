@@ -5,3 +5,5 @@ main:
     url: /CDA/
   - title: "Journal Club"
     url: /Journal_club/
+  - title: "Federated Learning introduction"
+    url: /Journal_club/FL/
