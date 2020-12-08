@@ -39,7 +39,7 @@ permalink : /CDA/
     [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/080620/ch6.pdf)
   
    - [09/17/20](https://github.com/chunhyonho/Group-study/tree/master/Categorical%20Data%20Analysis/082520) : 
-   - (**Chapter 9**)Loglinear Models for Contingency Tables (by Suk)  
+    - (**Chapter 9**)Loglinear Models for Contingency Tables (by Suk)  
     [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/082520/ch9.pdf), 
     [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/082520/ch9.pdf)
         
