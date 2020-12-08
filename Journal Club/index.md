@@ -23,7 +23,7 @@ Presenter : Dongjun Jee, Jinhwan Suk, Jaehyung Hong, Sangheon Lee, Jaewon Bae
     [link](https://github.com/chunhyonho/Group-study/blob/master/Journal%20Club/F2020/Clustering%20time%20series.pdf), 
     [download](https://github.com/chunhyonho/Group-study/raw/master/Journal%20Club/F2020/Clustering%20time%20series.pdf)  
 
-   - 10/13/20 :  
+  - 10/13/20 :  
     - Explainalbe AI (by Jee)  
     [link](https://github.com/chunhyonho/Group-study/blob/master/Journal%20Club/F2020/Explainable_AI%20(1).pdf), 
     [download](https://github.com/chunhyonho/Group-study/raw/master/Journal%20Club/F2020/Explainable_AI%20(1).pdf)   
