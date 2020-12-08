@@ -6,75 +6,82 @@ permalink : /CDA/
 # Categorical Data Analysis, 3rd edition
   - Presenter : Jaehyoung Hong, Dongjun Jee, Jinhwan Suk
 
-## Presentation list
-  - [05/28/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Categorical%20Data%20Analysis/052720) : 
-    - (**Chapter 1**)Introduction : Distributions and Inference for Categorical Data (by Suk)  
-    [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Categorical%20Data%20Analysis/052720/cda%5Bch1%5D.pdf), 
-    [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Categorical%20Data%20Analysis/052720/cda%5Bch1%5D.pdf)   
-    
-  - [06/03/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Categorical%20Data%20Analysis/060320) : 
-    - (**Chapter 2**)Describing Contingency Tables (by Hong)  
-    [link](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Categorical%20Data%20Analysis/060320/Describing%20Contingency%20Tables.pptx), 
-    [download](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Categorical%20Data%20Analysis/060320/Describing%20Contingency%20Tables.pptx)   
+### Presentation list  
 
-  - [06/10/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Categorical%20Data%20Analysis/061020) : 
-    - (**Chapter 3.1-3.3**)Inference for Two-way Contingency Tables (by Jee)  
+##### Chapter 1
+  - Introduction : Distributions and Inference for Categorical Data (by Suk)  
+  [link](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/pdf/Ch1.pdf), 
+  [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/pdf/Ch1.pdf)   
+
+
+##### Chapter 2    
+  - Describing Contingency Tables (by Hong)  
+  [link](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/pdf/Ch2.pdf), 
+  [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/pdf/Ch2.pdf)   
+
+##### Chapter 3
+  - (**Section 3.1-3.3**)Inference for Two-way Contingency Tables (by Jee)  
     [Slide], 
     [download]
     
-
-  - [06/17/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Categorical%20Data%20Analysis/061720) : 
-    - (**Chapter 3.4-3.7**)Inference for Two-way Contingency Tables (by Suk)  
-     [Slide](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Categorical%20Data%20Analysis/061720/cda%5Bch3.4-7%5D.pdf), 
-     [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Categorical%20Data%20Analysis/061720/cda%5Bch3.4-7%5D.pdf)
+  - (**Section 3.4-3.7**)Inference for Two-way Contingency Tables (by Suk)  
+   [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/pdf/Ch3_1.pdf), 
+   [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/pdf/Ch3_1.pdf)
     
-  - [06/24/20](https://github.com/chunhyonho/GROUP_STUDY/tree/master/Categorical%20Data%20Analysis/062420) : 
-    - (**Chapter 4**)Introduction to Generalized Linear Models (by Hong)    
-    [Slide](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Categorical%20Data%20Analysis/062420/Introduction%20to%20Generalized%20Linear%20Models%20(GLM).pdf), 
-    [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Categorical%20Data%20Analysis/062420/Introduction%20to%20Generalized%20Linear%20Models%20(GLM).pdf)
-    
-  - [08/06/20](https://github.com/chunhyonho/Group-study/tree/master/Categorical%20Data%20Analysis/080620) :  
-    - (**Chapter 6**)Building, Checking, and Applying Logistic Regression Models (by Suk)  
-    [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/080620/ch6.pdf), 
-    [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/080620/ch6.pdf)
+##### Chapter 4
+  - Introduction to Generalized Linear Models (by Hong)    
+  [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/pdf/Ch4.pdf), 
+  [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/pdf/Ch4.pdf)
+     
 
-  - [08/13/20]() :  
-    - (**Chapter 7**)Alternative Modeling of Binary Response Data (by Hong)  
-    [Slide](), 
-    [download]()
+##### Chapter 5
+  - Logistic Regression (by Jee)    
+  [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/pdf/Ch5.pdf), 
+  [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/pdf/Ch5.pdf)
 
-  - [08/20/20]() :  
-    - (**Chapter 8**)Models for Multinomial Responses (by Jee)  
-    [Slide](), 
-    [download]()
 
-  - [09/17/20](https://github.com/chunhyonho/Group-study/tree/master/Categorical%20Data%20Analysis/082520) :  
-    - (**Chapter 9**)Loglinear Models for Contingency Tables (by Suk)  
-    [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/082520/ch9.pdf), 
-    [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/082520/ch9.pdf)
+##### Chapter 6
+  - Building, Checking, and Applying Logistic Regression Models (by Suk)  
+  [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/080620/ch6.pdf), 
+  [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/080620/ch6.pdf)
+
+
+##### Chapter 7
+  - Alternative Modeling of Binary Response Data (by Hong)  
+  [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/pdf/Ch7.pdf), 
+  [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/pdf/Ch7.pdf)
+
+##### Chapter 8
+  - Models for Multinomial Responses (by Jee)  
+  [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/pdf/Ch8.pdf), 
+  [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/pdf/Ch8.pdf)
+
+##### Chapter 9
+  - Loglinear Models for Contingency Tables (by Suk)  
+  [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/pdf/Ch9.pdf), 
+  [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/pdf/Ch9.pdf)
         
-
-  - [09/24/20]() :  
-    - (**Chapter 10**)Building and Extending Loglinear Models (by Hong)  
-    [Slide](), 
-    [download]()
-
-
-  - [10/08/20]() :  
-    - (**Chapter 11**)Models for Matched Pairs (by Jee)  
-    [Slide](), 
-    [download]()
+##### Chapter 10
+  - Building and Extending Loglinear Models (by Hong)  
+  [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/pdf/Ch10.pdf), 
+  [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/pdf/Ch10.pdf)
 
 
-  - [10/15/20](https://github.com/chunhyonho/Group-study/tree/master/Categorical%20Data%20Analysis/091720) :  
-    - (**Chapter 12**)Clustered Categorical Data : Marginal and Transitional Models (by Suk)  
-    [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/091720/ch12.pdf), 
-    [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/091720/ch12.pdf)
-    
-  - [10/22/20]() :  
-    - (**Chapter 13**)Clustered Categorical Data : Random Effects Models (by Suk)  
-    [Slide](), 
-    [download]()
+##### Chapter 11
+  - Models for Matched Pairs (by Jee)  
+  [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/pdf/Ch11.pdf), 
+  [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/pdf/Ch11.pdf)
+
+
+##### Chapter 12
+  - Clustered Categorical Data : Marginal and Transitional Models (by Suk)  
+  [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/pdf/Ch12.pdf), 
+  [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/pdf/Ch12.pdf)
+ 
+##### Chapter 13   
+  - Clustered Categorical Data : Random Effects Models (by Hong)  
+  [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/pdf/Ch13.pdf), 
+  [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/pdf/Ch13.pdf)
     
 ## Solution for Exercise
   - Chapter 2 :
