@@ -33,20 +33,22 @@ permalink : /CDA/
     [Slide](https://github.com/chunhyonho/GROUP_STUDY/blob/master/Categorical%20Data%20Analysis/062420/Introduction%20to%20Generalized%20Linear%20Models%20(GLM).pdf), 
     [download](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Categorical%20Data%20Analysis/062420/Introduction%20to%20Generalized%20Linear%20Models%20(GLM).pdf)
     
-  - [08/06/20](https://github.com/chunhyonho/Group-study/tree/master/Categorical%20Data%20Analysis/080620) : 
+  - [08/06/20](https://github.com/chunhyonho/Group-study/tree/master/Categorical%20Data%20Analysis/080620) :  
     - (**Chapter 6**)Building, Checking, and Applying Logistic Regression Models (by Suk)  
     [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/080620/ch6.pdf), 
     [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/080620/ch6.pdf)
   
-   - [09/17/20](https://github.com/chunhyonho/Group-study/tree/master/Categorical%20Data%20Analysis/082520) : 
+   - [09/17/20](https://github.com/chunhyonho/Group-study/tree/master/Categorical%20Data%20Analysis/082520) :  
     - (**Chapter 9**)Loglinear Models for Contingency Tables (by Suk)  
     [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/082520/ch9.pdf), 
     [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/082520/ch9.pdf)
         
-  - [09/17/20](https://github.com/chunhyonho/Group-study/tree/master/Categorical%20Data%20Analysis/091720) : 
+  - [09/17/20](https://github.com/chunhyonho/Group-study/tree/master/Categorical%20Data%20Analysis/091720) :  
     - (**Chapter 12**)Clustered Categorical Data : Marginal and Transitional Models (by Suk)  
     [Slide](https://github.com/chunhyonho/Group-study/blob/master/Categorical%20Data%20Analysis/091720/ch12.pdf), 
     [download](https://github.com/chunhyonho/Group-study/raw/master/Categorical%20Data%20Analysis/091720/ch12.pdf)
+    
+    
 ## Solution for Exercise
   - Chapter 2 :
     - [3n](https://github.com/chunhyonho/GROUP_STUDY/raw/master/Categorical%20Data%20Analysis/061020/chap1mod3.pdf), [3n+1], [3n+2](https://github.com/chunhyonho/GROUP_STUDY/commit/d3bbec598e29b9206e3f4d18a6e29368f672554c)
