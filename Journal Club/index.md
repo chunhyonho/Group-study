@@ -20,3 +20,7 @@ permalink : /Journal_club/
     [link](/Journal_club/FL/index.html),
     [download](https://github.com/chunhyonho/Group-study/raw/master/Journal%20Club/111720/FL.pdf)
     
+  - 12/01/20 : 
+    - LDA and Wasserstein LDA (by Lee and Bae)  
+    [link](https://github.com/chunhyonho/Group-study/blob/master/Journal%20Club/120120/201201_Journal%20club_J.%20Bae%20and%20S.%20Lee.pdf),
+    [download](https://github.com/chunhyonho/Group-study/raw/master/Journal%20Club/120120/201201_Journal%20club_J.%20Bae%20and%20S.%20Lee.pdf)
